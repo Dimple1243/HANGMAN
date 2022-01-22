@@ -1,5 +1,9 @@
-import imp
 import string
+# from word_sear import choose_word
+# from image import IMAGES
+import imp
+# from logging 
+# import level
 import random
 import string
 from words import choose_word
